@@ -100,7 +100,8 @@ processed_for_top5_alpha <- process_phyloseq_data(counts, meta, taxa,
                                                   relative.abundance = FALSE,
                                                   clr.transform = FALSE)
 
-
+meta.tab.filt <- data.frame(sample_data(processed_for_top5_alpha))
+meta.tab.filt <- meta.tab.filt %>% rownames_to_column(var = "ID")
 
 # Top 5  Dominant Taxa in Clinical States --------------------------------------
 genus.melt <- psmelt(processed_for_top5_alpha)
