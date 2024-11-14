@@ -6,7 +6,7 @@
 #   OTU      : Mediator variables matrix.
 #   grp      : Vector indicating group membership for each observation.
 #   COV      : Covariate variables matrix.
-#   method   : Method for mediation analysis. Options are "normal" (default) or "bootstrap".
+#   method   : Method for mediation analysis. Options are "normal" or "bootstrap".
 #   n_boot   : Number of bootstrap samples. Relevant only if method = "bootstrap".
 #   seed     : Random seed for reproducibility.
 #   n_cores  : Number of cores for parallel processing. Relevant only if method = "bootstrap".
