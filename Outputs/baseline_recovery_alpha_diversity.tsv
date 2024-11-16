@@ -1,0 +1,10 @@
+"Diversity"	"Effects"	"Estimate"	"CI_Lower"	"CI_Upper"	"p_value"
+"Observed"	"Total Effect"	-4.785	-10.439	-1.21	0.004
+"Observed"	"Direct Effect"	-3.673	-9.195	-0.271	0.031
+"Observed"	"Indirect Effect"	-1.262	-2.369	-0.349	0.005
+"Shannon"	"Total Effect"	-4.781	-10.623	-1.237	0.005
+"Shannon"	"Direct Effect"	-4.086	-9.716	-0.677	0.009
+"Shannon"	"Indirect Effect"	-0.827	-1.626	-0.216	0.002
+"Simpson"	"Total Effect"	-4.736	-10.159	-1.208	0.007
+"Simpson"	"Direct Effect"	-4.106	-9.406	-0.75	0.01
+"Simpson"	"Indirect Effect"	-0.715	-1.41	-0.191	0.002
