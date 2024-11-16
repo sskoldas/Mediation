@@ -2,6 +2,7 @@ library(tibble)
 library(forestplot)
 library(tidyverse)
 
+# example
 a <- read.csv("./Outputs/Treatment_Recovery_indirect_effects_table.tsv", row.names=1, sep="")
 a$ci_range <- paste0("[", sprintf("%.3f", a$CI_Lower), ", ", sprintf("%.3f", a$CI_Upper), "]")
 a[sapply(a, is.numeric)] <- round(a[sapply(a, is.numeric)], 3)

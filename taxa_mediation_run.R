@@ -1,6 +1,6 @@
 source("./preprocess.R")
 source("./debiasedLasso.R")
-source("./mediation_model.R")
+source("./taxa_mediation_model.R")
 source("./parameter_estimation.R")
 
 
