@@ -74,59 +74,53 @@ simpson_plot <- output_df |> filter(alpha == "Simpson") |>
   fp_decorate_graph(box = gpar(lty=2, col="lightgray"), graph.pos =4)
 
 
-# Set up the grid layout to accommodate three plots
+# Set up the grid layout to accommodate the main title and three plots
 grid.newpage()
 borderWidth <- unit(4, "pt")
 totalBorderWidth <- borderWidth * 2
 totalPlotWidth <- unit(1, "npc") - totalBorderWidth
 plotWidth <- unit(convertX(totalPlotWidth, "npc", valueOnly = TRUE) / 3, "npc")
 
-pushViewport(viewport(layout = grid.layout(nrow = 1,
-                                           ncol = 5,
-                                           widths = unit.c(plotWidth,
-                                                           borderWidth,
-                                                           plotWidth,
-                                                           borderWidth,
-                                                           plotWidth))
-)
-)
+# Adjust the grid layout to have two rows: one for the title and one for the plots
+pushViewport(viewport(layout = grid.layout(
+  nrow = 2,
+  ncol = 5,
+  heights = unit.c(unit(1.5, "lines"), unit(1, "null")),
+  widths = unit.c(plotWidth, borderWidth, plotWidth, borderWidth, plotWidth)
+)))
 
-# Plot the Observed Genera in the first column
-pushViewport(viewport(layout.pos.row = 1,
-                      layout.pos.col = 1))
+# Place the main title in the first row spanning all columns
+pushViewport(viewport(layout.pos.row = 1, layout.pos.col = 1:5))
+grid.text("Treatment-Recovery", gp = gpar(fontsize = 16, fontface = "bold"), just = "center")
+upViewport()
+
+# Plot the Observed Genera in the first column (second row)
+pushViewport(viewport(layout.pos.row = 2, layout.pos.col = 1))
 observed_plot |>
-  fp_set_style(box = "royalblue",
-               line = "darkblue",
-               summary = "royalblue")
+  fp_set_style(box = "royalblue", line = "darkblue", summary = "royalblue")
 upViewport()
 
 # Add a border between plots
-pushViewport(viewport(layout.pos.row = 1,
-                      layout.pos.col = 2))
+pushViewport(viewport(layout.pos.row = 2, layout.pos.col = 2))
 grid.rect(gp = gpar(fill = "#dddddd", col = "#eeeeee"))
 upViewport()
 
-# Plot the Shannon Index in the third column
-pushViewport(viewport(layout.pos.row = 1,
-                      layout.pos.col = 3))
+# Plot the Shannon Index in the third column (second row)
+pushViewport(viewport(layout.pos.row = 2, layout.pos.col = 3))
 shannon_plot |>
-  fp_set_style(box = "royalblue",
-               line = "darkblue",
-               summary = "royalblue")
+  fp_set_style(box = "royalblue", line = "darkblue", summary = "royalblue")
 upViewport()
 
 # Add another border
-pushViewport(viewport(layout.pos.row = 1,
-                      layout.pos.col = 4))
+pushViewport(viewport(layout.pos.row = 2, layout.pos.col = 4))
 grid.rect(gp = gpar(fill = "#dddddd", col = "#eeeeee"))
 upViewport()
 
-# Plot the Simpson Index in the fifth column
-pushViewport(viewport(layout.pos.row = 1,
-                      layout.pos.col = 5))
+# Plot the Simpson Index in the fifth column (second row)
+pushViewport(viewport(layout.pos.row = 2, layout.pos.col = 5))
 simpson_plot |>
-  fp_set_style(box = "royalblue",
-               line = "darkblue",
-               summary = "royalblue")
+  fp_set_style(box = "royalblue", line = "darkblue", summary = "royalblue")
 upViewport(2)
+
+
 
