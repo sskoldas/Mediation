@@ -1,6 +1,7 @@
 library(grid)
 library(forestplot)
 library(dplyr)
+library(tibble)
 
 #example
 a <- read.delim("./Outputs/treatment_recovery_alpha_diversity.tsv", row.names=NULL)
