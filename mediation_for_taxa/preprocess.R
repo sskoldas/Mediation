@@ -49,14 +49,14 @@ process_phyloseq_data <- function(counts, meta, taxa,
   ps <- subset_taxa(ps,!is.na(Kingdom) & Kingdom != "" & Kingdom != "Archaea" & Kingdom != "Eukaryota" & Family != "Mitochondria" & Order != "Chloroplast" & Genus != "uncultured")
   # Aggregates taxa 
   ps.agg <- tax_glom(ps, taxrank = taxrank)
-  # Filter samples with fewer than lib.size.cut.off reads
+  # Remove samples with fewer than lib.size.cut.off reads
   ps.agg <- prune_samples(sample_sums(ps.agg) >= lib.size.cut.off, ps.agg)
   
   agg.meta <- data.frame(sample_data(ps.agg))
   agg.taxa <- data.frame(tax_table(ps.agg))
   agg.otu <- data.frame(t(otu_table(ps.agg)))
   agg.otu <- agg.otu[, colSums(agg.otu != 0) > 0]
-  # Filter genera having low abundance
+  # Remove genera having low abundance
   threshold <- ceiling(prevalence.cut.off * nrow(agg.otu))
   low.abundance.filt <- agg.otu[,colSums(agg.otu > 3) >= threshold]
   
