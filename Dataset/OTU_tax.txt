@@ -1,0 +1,614 @@
+TAXONOMY	Domain	Phylum	Class	Order	Family	Genus	Species
+Otu8	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	uncultured_bacterium
+Otu7	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	
+Otu5	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	uncultured_bacterium
+Otu6	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia
+Otu1	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	
+Otu3	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_pneumoniae
+Otu2	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	
+Otu4	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+Otu10	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	Haemophilus_influenzae
+Otu9	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Alcaligenaceae		
+Otu13	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	uncultured_bacterium
+Otu11	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	
+Otu15	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	
+Otu12	Bacteria	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	uncultured_bacterium
+Otu16	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	
+Otu14	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae		
+Otu18	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	uncultured_bacterium
+Otu19	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu20	Bacteria						
+Otu17	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_pyogenes
+Otu22	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	
+Otu21	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	uncultured_bacterium
+Otu23	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	
+Otu24	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	
+Otu26	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu25	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	
+Otu27	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	
+Otu28	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Serratia	
+Otu31	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu29	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	
+Otu30	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	uncultured_bacterium
+Otu32	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia	uncultured_bacterium
+Otu33	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	
+Otu34	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Parvimonas	
+Otu35	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	Leptotrichia_sp.
+Otu37	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	uncultured_bacterium
+Otu39	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	
+Otu38	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu36	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	
+Otu41	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	uncultured_bacterium
+Otu40	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Peptostreptococcus	
+Otu42	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	
+Otu45	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	
+Otu47	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu44	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Kingella	uncultured_bacterium
+Otu43	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	
+Otu46	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	
+Otu48	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	uncultured_bacterium
+Otu49	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	Fusobacterium_necrophorum
+Otu50	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	
+Otu51	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	uncultured_bacterium
+Otu52	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	
+Otu53	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	uncultured_bacterium
+Otu55	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	Chloroplast	Chloroplast	
+Otu54	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	Metamycoplasma_salivarium
+Otu60							
+Otu56	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Lautropia	uncultured_bacterium
+Otu59	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu57	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Eubacterium_nodatum_group	
+Otu58	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales			
+Otu61	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	uncultured_bacterium
+Otu62	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae		
+Otu63	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Mogibacterium	
+Otu64	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu65	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_shahii
+Otu66	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	uncultured_bacterium
+Otu68	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Tannerella	
+Otu69	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	
+Otu67	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Dialister	
+Otu70	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae		
+Otu74	Bacteria						
+Otu72	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	uncultured_bacterium
+Otu71	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae		
+Otu73	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	uncultured_bacterium
+Otu77	Bacteria	Firmicutes	Bacilli	Acholeplasmatales			
+Otu75	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Lactobacillus_fermentum
+Otu76	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Catonella	uncultured_bacterium
+Otu79	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	
+Otu83							
+Otu78	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Nocardia	
+Otu81	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Paludibacteraceae	F0058	uncultured_bacterium
+Otu80	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	uncultured_bacterium
+Otu82	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	uncultured_bacterium
+Otu84	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	uncultured_bacterium
+Otu85	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella	uncultured_bacterium
+Otu86							
+Otu88	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	uncultured_bacterium
+Otu87	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu89	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Scardovia	Scardovia_wiggsiae
+Otu90	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	uncultured_bacterium
+Otu91	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lacticaseibacillus	
+Otu94	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	uncultured_bacterium
+Otu96							
+Otu92	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_mutans
+Otu93	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	
+Otu95	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	uncultured_bacterium
+Otu99	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	
+Otu100							
+Otu97	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	
+Otu98	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Clostridioides	Clostridioides_difficile
+Otu104							
+Otu102	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu101	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella	uncultured_bacterium
+Otu103	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	
+Otu105	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	
+Otu111							
+Otu107	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	uncultured_bacterium
+Otu108	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+Otu106	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Eubacterium_brachy_group	
+Otu109	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella	
+Otu110	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	uncultured_bacterium
+Otu112	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae		
+Otu114	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema_lecithinolyticum
+Otu116	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	
+Otu113	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Shuttleworthia	
+Otu115	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	
+Otu117	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	
+Otu118	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu119	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	
+Otu120	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	uncultured_bacterium
+Otu124							
+Otu121	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	uncultured_bacterium
+Otu122	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu123	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	Castellaniella	
+Otu125	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_lactis
+Otu126	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	uncultured	
+Otu127	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	uncultured_bacterium
+Otu128	Bacteria	Firmicutes	Bacilli	Staphylococcales	Gemellaceae	Gemella	Gemella_asaccharolytica
+Otu129	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Aggregatibacter	
+Otu130	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	uncultured_Prevotella
+Otu131	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	Campylobacter_jejuni
+Otu132	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	uncultured_bacterium
+Otu133	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	uncultured_bacterium
+Otu135	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga_sp.
+Otu134	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Peptoniphilus	
+Otu137	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	
+Otu136	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	
+Otu138	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Johnsonella	
+Otu139	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	
+Otu142							
+Otu140	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	
+Otu141	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	
+Otu144	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	
+Otu143	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio	Eubacterium_sp.
+Otu145	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	Lentimicrobium	uncultured_bacterium
+Otu147	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Streptobacillus	uncultured_bacterium
+Otu146	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	
+Otu148	Bacteria	Proteobacteria	Alphaproteobacteria	Caedibacterales	Caedibacteraceae	Candidatus_Nucleicultrix	Candidatus_Nucleicultrix
+Otu149	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	uncultured_bacterium
+Otu150	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella	uncultured_bacterium
+Otu152	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	env.OPS_17	env.OPS_17	uncultured_bacterium
+Otu151	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae_RC9_gut_group	
+Otu153	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_anginosus
+Otu154	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Howardella	
+Otu159							
+Otu155	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Pseudopropionibacterium	
+Otu157	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Leuconostoc	
+Otu156	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	
+Otu160	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu158	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	uncultured_bacterium
+Otu161	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	
+Otu162	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae_RC9_gut_group	
+Otu163	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	uncultured_bacterium
+Otu167	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	
+Otu166	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	uncultured_bacterium
+Otu164	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Anaerococcus	
+Otu168	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	
+Otu165	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_sobrinus
+Otu172							
+Otu170	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	uncultured_bacterium
+Otu169	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Alloscardovia	Alloscardovia_omnicolens
+Otu171	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	TM7x	uncultured_bacterium
+Otu173	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	uncultured_bacterium
+Otu176	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	uncultured_Treponema
+Otu175	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	uncultured_Bacteroidetes
+Otu174	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	uncultured_bacterium
+Otu180							
+Otu182							
+Otu177	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Cryptobacterium	Cryptobacterium_curtum
+Otu178	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Moryella	Moryella_indoligenes
+Otu184							
+Otu179	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Anaerococcus	
+Otu181	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	uncultured_bacterium
+Otu183	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	
+Otu185							
+Otu186	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu188	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu193							
+Otu189	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Eggerthia	Eggerthia_catenaformis
+Otu187	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	
+Otu190	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Veillonella	Veillonella_montpellierensis
+Otu192	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella	uncultured_bacterium
+Otu191	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	
+Otu194	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	
+Otu196	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae		
+Otu195	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_delbrueckii
+Otu198	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	uncultured_bacterium
+Otu199	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	DNF00809	Coriobacteriales_bacterium
+Otu197	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+Otu201	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	
+Otu200	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Eubacterium_yurii_group	uncultured_bacterium
+Otu203							
+Otu202	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	uncultured_bacterium
+Otu204	Bacteria	Firmicutes	Bacilli	RF39	RF39	RF39	uncultured_bacterium
+Otu205	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu206	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae	Methylobacillus	
+Otu210	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadales	Saccharimonadales	uncultured_bacterium
+Otu207	Bacteria	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	uncultured_bacterium
+Otu209	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Peptoanaerobacter	Peptoanaerobacter_stomatis
+Otu208	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	
+Otu211	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu212	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae_UCG-001	uncultured_bacterium
+Otu213	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	
+Otu214	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu215	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	Candidatus_Saccharimonas	uncultured_bacterium
+Otu217	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Fretibacterium	
+Otu221							
+Otu219	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	Porphyromonadaceae_bacterium
+Otu216	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	uncultured_bacterium
+Otu218	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Eubacterium_nodatum_group	uncultured_bacterium
+Otu220	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	Mitochondria	
+Otu222	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter	unidentified
+Otu223	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	uncultured_bacterium
+Otu225	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	Prevotella_dentalis
+Otu226	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Butyrivibrio	Firmicutes_oral
+Otu224	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	
+Otu229	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae		
+Otu228	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae		
+Otu230	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida-Lodderomyces_clade	
+Otu227	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Colidextribacter	uncultured_bacterium
+Otu234							
+Otu232	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	
+Otu231	Bacteria	Firmicutes	Clostridia	Peptococcales	Peptococcaceae	Peptococcus	
+Otu233	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	
+Otu237	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	uncultured_bacterium
+Otu235	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	Gardnerella_vaginalis
+Otu238	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Anaeroglobus	Anaeroglobus_geminatus
+Otu236	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu239	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	uncultured_bacterium
+Otu241	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_intermedia
+Otu240	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Dolosigranulum	uncultured_bacterium
+Otu243	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu245							
+Otu244	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu242	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	F0332	uncultured_bacterium
+Otu248	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu246	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	S5-A14a	
+Otu250							
+Otu247	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Amnipila	
+Otu249	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Finegoldia	uncultured_bacterium
+Otu251	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	
+Otu252	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	uncultured_bacterium
+Otu256	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu253	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcaceae	uncultured_bacterium
+Otu255	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	Prevotella_sp.
+Otu254	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu257							
+Otu262							
+Otu258	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidales_Incertae_Sedis	Phocaeicola	Phocaeicola_abscessus
+Otu265							
+Otu260	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Peptoniphilus	
+Otu261	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	
+Otu259	Bacteria	Firmicutes	Clostridia	Lachnospirales	Defluviitaleaceae	Defluviitaleaceae_UCG-011	
+Otu263	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Bulleidia	Bulleidia_extructa
+Otu264	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	uncultured_bacterium
+Otu267	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	
+Otu266	Bacteria	Firmicutes	Clostridia	Eubacteriales	Eubacteriaceae	Pseudoramibacter	
+Otu268	Bacteria	Actinobacteriota	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Parascardovia	Parascardovia_denticolens
+Otu273							
+Otu270	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella_colorans
+Otu269	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	
+Otu271	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	Fretibacterium	
+Otu272	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Anaerococcus	
+Otu277							
+Otu276							
+Otu274	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Alcaligenaceae	Alcaligenes	
+Otu275	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	uncultured	uncultured_bacterium
+Otu278	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Peptoniphilus	Peptoniphilus_koenoeneniae
+Otu284							
+Otu281	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	
+Otu279	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Fructilactobacillus	
+Otu280	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium-Methylorubrum	Methylobacterium_jeotgali
+Otu283	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	
+Otu282	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Peptostreptococcaceae	Filifactor	
+Otu287							
+Otu286	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	uncultured_bacterium
+Otu285	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	
+Otu289	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+Otu290	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu288	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium	
+Otu291	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	uncultured_bacterium
+Otu292	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium-Methylorubrum	
+Otu293	Bacteria	Firmicutes	Bacilli	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	
+Otu294	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	uncultured	
+Otu295	Bacteria	Firmicutes	Clostridia	Clostridia_vadinBB60_group	Clostridia_vadinBB60_group	Clostridia_vadinBB60_group	Clostridiales_bacterium
+Otu297	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu298	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	
+Otu296	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_eligens_group	
+Otu301	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae_RC9_gut_group	
+Otu299	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	uncultured_bacterium
+Otu300	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	
+Otu302	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Lentimicrobiaceae	Lentimicrobium	uncultured_bacterium
+Otu303	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Catonella	Catonella_sp.
+Otu305	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+Otu306	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu304	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	uncultured_bacterium
+Otu307	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	uncultured	uncultured_bacterium
+Otu310							
+Otu308	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	
+Otu309	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	
+Otu311							
+Otu316							
+Otu315	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu312	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	
+Otu319							
+Otu318							
+Otu317							
+Otu313	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	Propionibacterium_freudenreichii
+Otu314	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	
+Otu321							
+Otu323							
+Otu325							
+Otu320	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	Prevotella_sp.
+Otu322	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	uncultured_bacterium
+Otu329							
+Otu326	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	
+Otu327	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	
+Otu324	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_NK4A136_group	uncultured_bacterium
+Otu330	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella	
+Otu328	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Aerococcus	Aerococcus_christensenii
+Otu332							
+Otu331	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	uncultured_bacterium
+Otu333	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Parasegetibacter	Parasegetibacter_luojiensis
+Otu335	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	uncultured_bacterium
+Otu334	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	
+Otu338							
+Otu336	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Megasphaera	
+Otu341							
+Otu337	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	uncultured	uncultured_bacterium
+Otu339	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	
+Otu340	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium	
+Otu343	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	
+Otu344	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	
+Otu342	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Methylophilaceae		
+Otu347							
+Otu345	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Veillonellaceae	Anaeroglobus	
+Otu348	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	Chloroplast	Chloroplast	
+Otu346	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	uncultured_bacterium
+Otu352							
+Otu349	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes_inops
+Otu350	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium_sensu_stricto_1	
+Otu351	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Delftia	
+Otu353	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	
+Otu355	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	uncultured_Treponema
+Otu354	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	
+Otu356	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	
+Otu360							
+Otu357	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae		
+Otu361	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu358	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus	uncultured_bacterium
+Otu359	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	
+Otu367							
+Otu363	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Oribacterium	
+Otu362	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu364	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae_UCG-006	uncultured_bacterium
+Otu366	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+Otu365	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Peptoniphilus	
+Otu368	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	
+Otu372							
+Otu374							
+Otu369	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066575	uncultured_bacterium
+Otu371	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	Gastranaerophilales	Gastranaerophilales	uncultured_bacterium
+Otu373	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	
+Otu370	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu375	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Cytophaga_sp.
+Otu377	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu376	Bacteria	Cyanobacteria	Vampirivibrionia	Obscuribacterales	Obscuribacteraceae	Obscuribacteraceae	uncultured_bacterium
+Otu378	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu383							
+Otu379	Bacteria	Deinococcota	Deinococci	Thermales	Thermaceae	Thermus	
+Otu385							
+Otu381	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	
+Otu380	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Subdoligranulum	uncultured_bacterium
+Otu386							
+Otu382	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Actinobacillus	
+Otu388							
+Otu390							
+Otu384	Bacteria	Firmicutes	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+Otu389							
+Otu392	Eukaryota						
+Otu393							
+Otu387	Bacteria	Firmicutes	Bacilli	Alicyclobacillales			
+Otu396							
+Otu391	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae		
+Otu395							
+Otu394	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu399							
+Otu397	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Family_XIII_UCG-001	
+Otu398	Bacteria	Firmicutes	Clostridia	Oscillospirales	Eubacterium_coprostanoligenes_group	Eubacterium_coprostanoligenes_group	uncultured_bacterium
+Otu402	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+Otu403	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	
+Otu400	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales			
+Otu401	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	
+Otu404	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu406	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	uncultured_bacterium
+Otu405	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu410							
+Otu407	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	Oscillibacter	uncultured_bacterium
+Otu411	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae		
+Otu408	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	
+Otu409	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	
+Otu412	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	
+Otu413	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Flavisolibacter	
+Otu415	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	uncultured_bacterium
+Otu414	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	uncultured_bacterium
+Otu416	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae_UCG-001	uncultured_bacterium
+Otu418	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	
+Otu417	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Anaerovoracaceae	Eubacterium_saphenum_group	Eubacterium_saphenum
+Otu419	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	
+Otu422							
+Otu423							
+Otu420	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	
+Otu421	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae_RC9_gut_group	
+Otu424	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	uncultured_bacterium
+Otu429							
+Otu425	Bacteria	Firmicutes	Bacilli	Lactobacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta
+Otu426	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	uncultured_bacterium
+Otu427	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	
+Otu431							
+Otu430	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu428	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	
+Otu434							
+Otu437							
+Otu432	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	
+Otu438	Eukaryota						
+Otu433	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	
+Otu436	Bacteria	Firmicutes	Clostridia	Oscillospirales	Hungateiclostridiaceae	Fastidiosipila	uncultured_bacterium
+Otu435	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium-Methylorubrum	
+Otu439	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadales	Saccharimonadales	
+Otu443	Bacteria						
+Otu442	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	
+Otu440	Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillaceae	Skermanella	
+Otu441	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Oxalobacteraceae		
+Otu446	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	Saccharimonadaceae	uncultured_bacterium
+Otu448							
+Otu444	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+Otu447	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	Chloroplast	Chloroplast	
+Otu449							
+Otu445	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	
+Otu452							
+Otu451	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella_7	Prevotella_sp.
+Otu450	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia
+Otu456	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	Saccharimonadaceae	uncultured_bacterium
+Otu454	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	
+Otu453	Bacteria	Proteobacteria	Alphaproteobacteria	Azospirillales	Azospirillaceae	Nitrospirillum	Rhodospirillaceae_bacterium
+Otu457	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	
+Otu455	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	uncultured_bacterium
+Otu458	Bacteria	Deinococcota	Deinococci	Deinococcales	Trueperaceae	Truepera	
+Otu465							
+Otu459	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	
+Otu460	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Comamonadaceae	Aquabacterium	
+Otu462	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu461	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	uncultured	uncultured_bacterium
+Otu466	Bacteria	Patescibacteria	Gracilibacteria	Absconditabacteriales_(SR1)	Absconditabacteriales_(SR1)	Absconditabacteriales_(SR1)	
+Otu463	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	uncultured	uncultured_bacterium
+Otu464	Bacteria	Firmicutes	Clostridia	Peptococcales	Peptococcaceae	uncultured	uncultured_bacterium
+Otu469							
+Otu468	Bacteria	Patescibacteria	Gracilibacteria	JGI_0000069-P22	JGI_0000069-P22	JGI_0000069-P22	
+Otu467	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	Moraxella_lincolnii
+Otu473							
+Otu471	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	UBA1819	
+Otu470	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu472	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	uncultured_bacterium
+Otu474	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae		
+Otu478							
+Otu475	Bacteria	Firmicutes	Desulfotomaculia	Desulfotomaculales	Desulfotomaculaceae	Desulfofarcimen	uncultured_bacterium
+Otu476	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia-Shigella	
+Otu477	Bacteria	Bacteroidota	Bacteroidia	Cytophagales	Spirosomaceae	Dyadobacter	
+Otu479	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured_bacterium
+Otu480	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema_parvum
+Otu484							
+Otu481	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Bosea	
+Otu483	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Johnsonella	Johnsonella_ignava
+Otu482	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anoxybacillus	
+Otu485	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	
+Otu486	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_hallii_group	uncultured_bacterium
+Otu488	Bacteria	Firmicutes	Negativicutes	Acidaminococcales	Acidaminococcaceae		
+Otu487	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Tyzzerella	
+Otu489	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	uncultured	
+Otu491	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Subdoligranulum	uncultured_bacterium
+Otu493							
+Otu494							
+Otu490	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu492	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	
+Otu498							
+Otu496	Bacteria	Firmicutes	Bacilli	RF39	RF39	RF39	uncultured_bacterium
+Otu501							
+Otu500							
+Otu495	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Incertae_Sedis	
+Otu497	Bacteria	Firmicutes	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	
+Otu499	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	uncultured_bacterium
+Otu502	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	
+Otu505							
+Otu509							
+Otu504	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	
+Otu503	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	uncultured	uncultured_bacterium
+Otu506	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelatoclostridium	
+Otu511							
+Otu507	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae		
+Otu508	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Stomatobaculum	
+Otu512							
+Otu510	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	
+Otu514							
+Otu516							
+Otu517							
+Otu513	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	
+Otu515	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Howardella	
+Otu519	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Slackia	Slackia_exigua
+Otu520	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	
+Otu518	Bacteria	Firmicutes	Clostridia	Peptococcales	Peptococcaceae	Peptococcus	uncultured_bacterium
+Otu521	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	uncultured_bacterium
+Otu525							
+Otu523	Bacteria	Firmicutes	Bacilli	Staphylococcales	Staphylococcaceae	Staphylococcus	
+Otu522	Bacteria	Actinobacteriota	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	
+Otu524	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	
+Otu527							
+Otu526							
+Otu528							
+Otu529							
+Otu532							
+Otu530	Bacteria	Proteobacteria	Alphaproteobacteria	Paracaedibacterales	Paracaedibacteraceae	uncultured	uncultured_bacterium
+Otu533	Bacteria	Bacteroidota	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium	
+Otu531	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	
+Otu535	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae		
+Otu536	Bacteria	Firmicutes	Negativicutes	Veillonellales-Selenomonadales	Selenomonadaceae	Selenomonas	
+Otu538	Eukaryota	Vertebrata	Mammalia	Mammalia	Mammalia	Mammalia	Homo_sapiens
+Otu534	Bacteria	Actinobacteriota	Actinobacteria	Frankiales	Geodermatophilaceae		
+Otu537	Bacteria	Actinobacteriota	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	
+Otu539							
+Otu544							
+Otu540	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Marvinbryantia	uncultured_bacterium
+Otu541	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	uncultured_bacterium
+Otu547							
+Otu543	Bacteria	Cyanobacteria	Vampirivibrionia	Gastranaerophilales	Gastranaerophilales	Gastranaerophilales	
+Otu542	Bacteria	Firmicutes	Clostridia				
+Otu546	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas	uncultured_bacterium
+Otu545	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Anaerotruncus	
+Otu549							
+Otu551	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+Otu554	Bacteria						
+Otu548	Bacteria	Actinobacteriota	Acidimicrobiia	Microtrichales	Ilumatobacteraceae	uncultured	uncultured_bacterium
+Otu552	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	Chloroplast	Chloroplast	
+Otu550	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	
+Otu556	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	uncultured_bacterium
+Otu553	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Phyllobacterium	
+Otu558							
+Otu560							
+Otu555	Bacteria	Actinobacteriota	Acidimicrobiia	IMCC26256	IMCC26256	IMCC26256	uncultured_bacterium
+Otu561							
+Otu557	Bacteria	Bacteroidota	Bacteroidia				
+Otu562							
+Otu559	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia	
+Otu564							
+Otu563	Bacteria	Bacteroidota	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	
+Otu565	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	
+Otu567	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	Mitochondria	
+Otu569							
+Otu566	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+Otu571	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Treponema	Treponema_sp.
+Otu568	Bacteria	Actinobacteriota	Actinobacteria	Actinomycetales	Actinomycetaceae	F0332	
+Otu570	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae_RC9_gut_group	
+Otu574	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	uncultured	uncultured_bacterium
+Otu573	Bacteria	Firmicutes	Clostridia	Clostridia_UCG-014	Clostridia_UCG-014	Clostridia_UCG-014	unidentified
+Otu575	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	uncultured	uncultured_bacterium
+Otu572	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	uncultured	uncultured_bacterium
+Otu576	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured_bacterium
+Otu577	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu578	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	
+Otu579	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculaceae	uncultured_bacterium
+Otu581							
+Otu586							
+Otu587							
+Otu582	Bacteria	Firmicutes	Clostridia	Clostridia_vadinBB60_group	Clostridia_vadinBB60_group	Clostridia_vadinBB60_group	uncultured_bacterium
+Otu580	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	uncultured	uncultured_bacterium
+Otu584	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	uncultured	uncultured_bacterium
+Otu583	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066575	uncultured_bacterium
+Otu589							
+Otu585	Bacteria	Firmicutes	Clostridia	Oscillospirales	Oscillospiraceae	uncultured	uncultured_bacterium
+Otu592							
+Otu590	Bacteria	Cyanobacteria	Cyanobacteriia	Chloroplast	Chloroplast	Chloroplast	Triticum_aestivum
+Otu591							
+Otu588	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	
+Otu593							
+Otu594							
+Otu600							
+Otu601							
+Otu602							
+Otu595	Bacteria	Actinobacteriota	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	uncultured_bacterium
+Otu596	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_NK4A136_group	uncultured_bacterium
+Otu598	Bacteria	Campylobacterota					
+Otu599	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	uncultured_bacterium
+Otu603							
+Otu597	Bacteria	Firmicutes	Clostridia	Oscillospirales	Butyricicoccaceae		
+Otu604							
+Otu605							
+Otu608							
+Otu611							
+Otu612							
+Otu613							
+Otu607	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoanaerobaculum	Lachnospiraceae_oral
+Otu610	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Pasteurellaceae	Haemophilus	
+Otu606	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospiraceae_NK4A136_group	uncultured_bacterium
+Otu609	Bacteria	Firmicutes	Clostridia	Peptostreptococcales-Tissierellales	Family_XI	Parvimonas	uncultured_bacterium
