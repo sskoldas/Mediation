@@ -1,4 +1,4 @@
-setwd("~/Desktop/Mediation/")
+
 library(phyloseq)
 library(tidyverse)
 library(ggplot2)
@@ -675,6 +675,7 @@ ggplot(shannon, aes(x = host_disease_aggressiveness, y = value, fill = host_dise
   geom_label(data = median_values_shannon, aes(x = host_disease_aggressiveness, y = median_value, label = label),fill = "white",color = "black",label.size = 0.3,size = 3,nudge_x = 0.3,vjust = 0.5) +
   scale_fill_manual(values = colors) +
   scale_color_manual(values = colors) +
+  scale_x_discrete(labels = c("Mild" = "Mild","Moderate_Severe" = "Moderate/Severe")) +
   labs(y = "Shannon Index", x = " ", fill = "Genus") +
   ylim(0,2.85) +
   stat_compare_means(comparisons = disease_aggressiv_comparisons,
@@ -717,6 +718,7 @@ ggplot(simpson, aes(x = host_disease_aggressiveness, y = value, fill = host_dise
   geom_label(data = median_values_simpson, aes(x = host_disease_aggressiveness, y = median_value, label = label),fill = "white",color = "black",label.size = 0.3,size = 3,nudge_x = 0.3,vjust = 0.5) +
   scale_fill_manual(values = colors) +
   scale_color_manual(values = colors) +
+  scale_x_discrete(labels = c("Mild" = "Mild","Moderate_Severe" = "Moderate/Severe")) +
   labs(y = "Simpson Index", x = " ", fill = "Genus") +
   ylim(0,1.0) +
   stat_compare_means(comparisons = disease_aggressiv_comparisons,
