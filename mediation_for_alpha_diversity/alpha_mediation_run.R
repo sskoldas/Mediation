@@ -1,4 +1,4 @@
-setwd("~/Desktop/Mediation/")
+
 source("./mediation_for_alpha_diversity/preprocess_for_alpha_diversity.R")
 source("./mediation_for_alpha_diversity/alpha_mediation_model.R")
 source("./BCa_CI.R")

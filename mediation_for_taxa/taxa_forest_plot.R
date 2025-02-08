@@ -1,4 +1,4 @@
-setwd("~/Desktop/Mediation/")
+
 
 library(tibble)
 library(forestplot)

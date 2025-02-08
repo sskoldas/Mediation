@@ -1,4 +1,4 @@
-setwd("~/Desktop/Mediation/")
+
 source("./mediation_for_taxa/preprocess.R")
 source("./mediation_for_taxa/debiasedLasso.R")
 source("./mediation_for_taxa/parameter_estimation.R")
